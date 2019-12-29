@@ -33,7 +33,7 @@ Justin Gitlin - cacheflowe [at] cacheflowe.com <br>
 - Ideate concepts
 - Build pitch decks & prepare to present next class
 - Create group name/identity
-- More info [here](./classes/01-jan-13.md)
+- More info [here](./classes/01-jan-13.md#homework)
 
 ---
 
