@@ -124,7 +124,7 @@ Justin Gitlin - cacheflowe [at] cacheflowe.com <br>
 
 👨‍🏫 Presentations
 
-- [Tools](./docs/tools-of-the-trade.md)
+- [Tools of the Trade](./docs/tools-of-the-trade.md)
 
 ---
 
