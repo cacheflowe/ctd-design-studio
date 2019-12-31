@@ -6,8 +6,8 @@
 ATLS 5519 | Spring 2020 <br>
 Time: Mondays @ 4:00–6:30 PM <br>
 Location: ENVD234A <br>
-Instructor: [Justin Gitlin](https://cacheflowe.com)
-Office hours: by appointment
+Instructor: [Justin Gitlin](https://cacheflowe.com) <br>
+Office hours: by appointment <br>
 [General Policies](./docs/policies.md)
 
 ## Course Description
