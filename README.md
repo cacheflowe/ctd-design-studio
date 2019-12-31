@@ -1,22 +1,18 @@
-# CTD Design Studio | ATLS 5519
+# CTD Design Studio
 
-## Class Info
+## Course Info
 
 [CU Boulder ATLAS program](https://www.colorado.edu/atlas/academics/graduate/ms-technology-media-society) <br>
-Spring 2020 <br>
-Mondays @ 4:00–6:30 PM <br>
-Location: ENVD234A
+ATLS 5519 | Spring 2020 <br>
+Time: Mondays @ 4:00–6:30 PM <br>
+Location: ENVD234A <br>
+Instructor: [Justin Gitlin](https://cacheflowe.com)
+Office hours: by appointment
+[General Policies](./docs/policies.md)
 
-Lecturer: <br>
-Justin Gitlin - cacheflowe [at] cacheflowe.com <br>
+## Course Description
 
-<!--
-## Student Groups <br>
-(Tag all posts with #ctddesignstudio2020)
-
-- **[Team 1](https://www.instagram.com/team.raio/)**: Student 5, 6, 7
-- **Team 2**: Student 5, 6, 7
--->
+This course will model itself after a real-world client-agency relationship, where student groups will pitch their concepts and produce a single interactive installation throughout the semester. Groups will be formed in a way that each team has a wide spread of skills, which will help them execute a highly multidisciplinary project. Beyond design and technology, students will partake in business and marketing exercises to promote and explain their work product. Guest speakers will visit the class throughout the semester, bringing with them a unique set of experiences that speak to the many aspects building a physical interactive installation.
 
 ## Schedule
 
