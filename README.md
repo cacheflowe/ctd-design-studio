@@ -66,7 +66,7 @@ This course will model itself after a real-world client-agency relationship, whe
 
 ---
 
-### Feb 4
+### Feb 3
 
 📋 Agenda
 
