@@ -12,7 +12,7 @@ Office hours: by appointment <br>
 
 ## Course Description
 
-This course will model itself after a real-world client-agency relationship, where student groups will pitch their concepts and produce a single interactive installation throughout the semester. Groups will be formed in a way that each team has a wide spread of skills, which will help them execute a highly multidisciplinary project. Beyond design and technology, students will partake in business and marketing exercises to promote and explain their work product. Guest speakers will visit the class throughout the semester, bringing with them a unique set of experiences that speak to the many aspects building a physical interactive installation.
+This course will model itself after a real-world client-agency relationship, where student groups will pitch their concepts and produce a single interactive installation throughout the semester. Groups will be formed in a way that each team has a wide spread of skills, which will help them execute a highly multidisciplinary project. Beyond design and technology, students will partake in business and marketing exercises to execute, promote and explain their work product. Guest speakers will visit the class throughout the semester, bringing with them a unique set of experiences that speak to the many aspects building a physical interactive installation.
 
 ## Schedule
 
