@@ -71,11 +71,13 @@ This course will model itself after a real-world client-agency relationship, whe
 📋 Agenda
 
 - Students present final pitch revisions w/active class discussion
+- Budgets
 - PCD? Is this happening this year? Any other events?
 
 👨‍🏫 Presentations
 
 - [How to document](./docs/documentation-tips.md) a project
+- Review [case studies](./docs/case-study-examples.md) - why are they good or not?
 - Guest: Storytelling w/Stephen?
 
 📝 Homework 
@@ -92,6 +94,7 @@ This course will model itself after a real-world client-agency relationship, whe
 
 📋 Agenda
 
+- Progress check-in - communicate with your client (Justin)
 - Group Dynamics w/Ruscha
 - [Management advice](./docs/management-advice.md) bulletpoints
 - Soft skills
