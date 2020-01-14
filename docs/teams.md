@@ -2,7 +2,7 @@
 
 ## Team 1:
 * Sam
-* Alex
+* Juliet
 * Isaac
 
 ## Team 2:
