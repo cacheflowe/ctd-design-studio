@@ -56,9 +56,6 @@ This course will model itself after a real-world client-agency relationship, whe
 
 - Justin's two latest projects: Process & learnings
 - Real world [project lifecycle](./docs/project-management.md), strategies & [team roles](./docs/roles-responsibilities.md)
-- Prototyping how-to:
-  - Tech, space, design, UX 
-  - Build diagrams/sketches/wireframes/code/spatial experiments
 
 📝 Homework 
 
@@ -76,6 +73,9 @@ This course will model itself after a real-world client-agency relationship, whe
 
 👨‍🏫 Presentations
 
+- Prototyping how-to:
+  - Tech, space, design, UX 
+  - Build diagrams/sketches/wireframes/code/spatial experiments
 - [How to document](./docs/documentation-tips.md) a project
 - Review [case studies](./docs/case-study-examples.md) - why are they good or not?
 - Guest: Storytelling w/Stephen?
@@ -142,6 +142,7 @@ This course will model itself after a real-world client-agency relationship, whe
 👨‍🏫 Presentations
 
 - Tech Demo: Kinect / Cameras / CV
+- Guest: Machine Learning w/Andrew
 
 📝 Homework 
 
