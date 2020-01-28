@@ -55,11 +55,12 @@ This course will model itself after a real-world client-agency relationship, whe
 👨‍🏫 Presentations
 
 - Justin's two latest projects: Process & learnings
-- Real world [project lifecycle](./docs/project-management.md), strategies & [team roles](./docs/roles-responsibilities.md)
 
 📝 Homework 
 
 - Start prototyping to prove your ability to build your concept
+- Integrate feedback
+- Revisit what's possible given the budget
 
 ---
 
@@ -67,17 +68,14 @@ This course will model itself after a real-world client-agency relationship, whe
 
 📋 Agenda
 
-- Students present final pitch revisions w/active class discussion
-- Budgets
-- PCD? Is this happening this year? Any other events?
+- Progress check-in - communicate with your client (Justin)
 
 👨‍🏫 Presentations
 
+- Tech Demo: Kinect
 - Prototyping how-to:
   - Tech, space, design, UX 
   - Build diagrams/sketches/wireframes/code/spatial experiments
-- [How to document](./docs/documentation-tips.md) a project
-- Review [case studies](./docs/case-study-examples.md) - why are they good or not?
 - Guest: Storytelling w/Stephen?
 
 📝 Homework 
@@ -94,7 +92,6 @@ This course will model itself after a real-world client-agency relationship, whe
 
 📋 Agenda
 
-- Progress check-in - communicate with your client (Justin)
 - Group Dynamics w/Ruscha
 - [Management advice](./docs/management-advice.md) bulletpoints
 - Soft skills
@@ -141,7 +138,6 @@ This course will model itself after a real-world client-agency relationship, whe
 
 👨‍🏫 Presentations
 
-- Tech Demo: Kinect / Cameras / CV
 - Guest: Machine Learning w/Andrew
 
 📝 Homework 

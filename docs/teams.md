@@ -1,26 +1,23 @@
 # Teams
 
-## Team 1:
+## Loose Wire:
 * Sam
 * Juliet
 * Isaac
 
-## Team 2:
+## Feedback Loop:
 * Casey
 * Anna
 * Amanda
-
-## Team 3:
-* Ming
-* Emma 
 * John
 
-## Team 4:
+## Leaf:
 * Fiona
 * Liza
 * Alex
+* Emma
 
-## Team 5:
+## Creative Connective:
 * Jon
 * Holiday
 * Andrea
