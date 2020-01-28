@@ -1,24 +1,24 @@
 # Teams
 
 ## Loose Wire:
-* Sam
-* Juliet
 * Isaac
+* Juliet
+* Sam
 
 ## Feedback Loop:
-* Casey
-* Anna
 * Amanda
+* Anna
+* Casey
 * John
 
 ## Leaf:
-* Fiona
-* Liza
 * Alex
 * Emma
+* Fiona
+* Liza
 
 ## Creative Connective:
-* Jon
-* Holiday
 * Andrea
 * Charlie
+* Holiday
+* Jon
