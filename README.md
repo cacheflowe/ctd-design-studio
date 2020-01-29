@@ -76,7 +76,10 @@ This course will model itself after a real-world client-agency relationship, whe
 - Prototyping how-to:
   - Tech, space, design, UX 
   - Build diagrams/sketches/wireframes/code/spatial experiments
-- Guest: Storytelling w/Stephen?
+- Real world [project lifecycle](./docs/project-management.md), strategies & [team roles](./docs/roles-responsibilities.md)
+- [How to document](./docs/documentation-tips.md) a project
+- Review [case studies](./docs/case-study-examples.md) - why are they good or not?
+- Guest speaker? TBD
 
 📝 Homework 
 
@@ -92,6 +95,7 @@ This course will model itself after a real-world client-agency relationship, whe
 
 📋 Agenda
 
+- Justin in Chicago for NBA All-Star Week 
 - Group Dynamics w/Ruscha
 - [Management advice](./docs/management-advice.md) bulletpoints
 - Soft skills
@@ -110,17 +114,16 @@ This course will model itself after a real-world client-agency relationship, whe
 
 📋 Agenda
 
-- Justin back from Chicago?
+- Justin back from Chicago
 - Review prototype progress
   - Address group concerns & roadblocks
   - Revisit concepts
-- DDI field trip?
-  - Other fabrication companies to look at: Demiurge, Bednark, Two Seven, Steelab, Scenicorp, Paper Airplane
 - 🚩 You should be around 50% done with your prototype by this point
 
 👨‍🏫 Presentations
 
 - [Tools of the Trade](./docs/tools-of-the-trade.md)
+- Guest: Storytelling, performance, community engagement & activism w/[Stephen Brackett](https://www.youthonrecord.org/team-member/stephen-brackett)
 
 ---
 
@@ -138,7 +141,7 @@ This course will model itself after a real-world client-agency relationship, whe
 
 👨‍🏫 Presentations
 
-- Guest: Machine Learning w/Andrew
+- Guest speaker: [Andrew Catellier](https://thisisreal.net/) - "Disussion on Neural Net Applications and Pitfalls"
 
 📝 Homework 
 
