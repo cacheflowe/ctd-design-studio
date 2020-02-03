@@ -1,4 +1,4 @@
-# Working with the Kinect (or other cameras)
+# Working with the Kinect (and other cameras)
 
 ## Platforms to use
 
@@ -22,7 +22,7 @@
 ## The hardware
 
   * Kinect [v1](https://i0.wp.com/skarredghost.com/wp-content/uploads/2016/12/20161129_202059.jpg?zoom=2&resize=800%2C445&ssl=1) vs [v2](https://i2.wp.com/zugara.com/wp-content/uploads/Kinect-1-vs-Kinect-2-Tech-Comparison.png) vs [Azure](https://azure.microsoft.com/en-us/services/kinect-dk/)
-  * Alternative cameras ([Intel Realsense](https://www.intel.com/content/www/us/en/architecture-and-technology/realsense-overview.html), [Zed](https://www.stereolabs.com/) - both work in daylight)
+  * Alternative depth cameras ([Intel Realsense](https://www.intel.com/content/www/us/en/architecture-and-technology/realsense-overview.html), [Zed](https://www.stereolabs.com/) - both work in daylight)
   * Failure points (ambient sunlight)
 
 ## The data

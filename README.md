@@ -113,7 +113,7 @@ This course will model itself after a real-world client-agency relationship, whe
 
 📋 Agenda
 
-- Justin back from Chicago
+- Justin back from Chicago: tales from the road
 - Review prototype progress
   - Address group concerns & roadblocks
   - Revisit concepts
