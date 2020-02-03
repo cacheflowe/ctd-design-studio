@@ -27,7 +27,7 @@
 
 ## The data
 
-* [Skeleton](https://github.com/totovr/SimpleOpenNI/tree/master/SimpleOpenNI/SimpleOpenNI/examples/OpenNI/Tracking_Skeleton) [detection](https://raw.githubusercontent.com/totovr/SimpleOpenNI/master/Assets/Kinect_V2_Tracking.gif) vs [depth data](https://www.youtube.com/watch?v=E1eIg54clGo)
+* [Skeleton](https://github.com/totovr/SimpleOpenNI/tree/master/SimpleOpenNI/SimpleOpenNI/examples/OpenNI/Tracking_Skeleton) [detection](https://github.com/totovr/SimpleOpenNI/blob/master/Assets/Kinect_V2_Tracking.gif) vs [depth data](https://www.youtube.com/watch?v=E1eIg54clGo)
 * Shiffman: Kinect and Processing Tutorial ([playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZMlWHdcy8hAGDy6IaoxUKf)):
   * [What is the Kinect?](https://www.youtube.com/watch?v=QmVNgdapJJM)
   * [The Depth Image](https://www.youtube.com/watch?v=QmVNgdapJJM)
