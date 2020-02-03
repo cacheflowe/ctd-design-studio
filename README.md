@@ -69,6 +69,9 @@ This course will model itself after a real-world client-agency relationship, whe
 📋 Agenda
 
 - Progress check-in - communicate with your client (Justin)
+- Budgets & purchasing info
+  - Itemized receipts for non-internet purchases. Keep track of expenses!
+- Hardware available: Kinects & beacons
 
 👨‍🏫 Presentations
 
@@ -76,6 +79,8 @@ This course will model itself after a real-world client-agency relationship, whe
 - Prototyping how-to:
   - Tech, space, design, UX 
   - Build diagrams/sketches/wireframes/code/spatial experiments
+    - Find answers to the highest risk tech & integrations first
+    - Test your theories with users ASAP 
 - Real world [project lifecycle](./docs/project-management.md), strategies & [team roles](./docs/roles-responsibilities.md)
 - [How to document](./docs/documentation-tips.md) a project
 - Review [case studies](./docs/case-study-examples.md) - why are they good or not?
