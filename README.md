@@ -72,14 +72,13 @@ This course will model itself after a real-world client-agency relationship, whe
 
 👨‍🏫 Presentations
 
-- Tech Demo: Kinect
+- Tech Demo: [Kinect](./docs/kinect.md)
 - Prototyping how-to:
   - Tech, space, design, UX 
   - Build diagrams/sketches/wireframes/code/spatial experiments
 - Real world [project lifecycle](./docs/project-management.md), strategies & [team roles](./docs/roles-responsibilities.md)
 - [How to document](./docs/documentation-tips.md) a project
 - Review [case studies](./docs/case-study-examples.md) - why are they good or not?
-- Guest speaker? TBD
 
 📝 Homework 
 
