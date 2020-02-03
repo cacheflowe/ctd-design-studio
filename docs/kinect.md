@@ -40,8 +40,8 @@
 * Kinect v1: [SimpleOpenNI](https://github.com/totovr/SimpleOpenNI) - examples & documentation
   * You need to manually install the library into your Processing libraries directory in the Processing directory in your user account's filesystem
   * If you're on OS X and this library doesn't work, try [OpenKinect for Processing](https://github.com/shiffman/OpenKinect-for-Processing), which is installed from Processing's library manager 
-* Kinect v2 (OS X): [OpenKinect for Processing](https://github.com/shiffman/OpenKinect-for-Processing) - install from Processing's library manager
-* Kinect v2 (Windows): [KinectPV2](https://github.com/ThomasLengeling/KinectPV2) - install from Processing's library manager
+* Kinect v2 (OS X): [OpenKinect for Processing](https://github.com/shiffman/OpenKinect-for-Processing) - install from Processing's library manager. No skeleton detection
+* Kinect v2 (Windows): [KinectPV2](https://github.com/ThomasLengeling/KinectPV2) - install from Processing's library manager. The most robust tool
 * On Windows, you also need to install the original MS drivers
   * Kinect v1 uses [SDK 1.8](https://www.microsoft.com/en-us/download/details.aspx?id=40278)
   * Kinect v2 uses [SDK 2.0](https://www.microsoft.com/en-us/download/details.aspx?id=44561)
