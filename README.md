@@ -24,7 +24,7 @@ This course will model itself after a real-world client-agency relationship, whe
 
 - [Intro to class](./classes/01-jan-13.md)
 
-📝 Homework 
+📝 Homework
 
 - [First assignment](./classes/01-jan-13.md#homework)
 
@@ -32,7 +32,7 @@ This course will model itself after a real-world client-agency relationship, whe
 
 ### Jan 20 (No class: MLK Jr. Day)
 
-📝 Homework 
+📝 Homework
 
 - Keep working on pitches/presentations
 
@@ -56,7 +56,7 @@ This course will model itself after a real-world client-agency relationship, whe
 
 - Justin's two latest projects: Process & learnings
 
-📝 Homework 
+📝 Homework
 
 - Start prototyping to prove your ability to build your concept
 - Integrate feedback
@@ -77,15 +77,15 @@ This course will model itself after a real-world client-agency relationship, whe
 
 - Tech Demo: [Kinect](./docs/kinect.md)
 - Prototyping how-to:
-  - Tech, space, design, UX 
+  - Tech, space, design, UX
   - Build diagrams/sketches/wireframes/code/spatial experiments
     - Find answers to the highest risk tech & integrations first
-    - Test your theories with users ASAP 
+    - Test your theories with users ASAP
 - Real world [project lifecycle](./docs/project-management.md), strategies & [team roles](./docs/roles-responsibilities.md)
 - [How to document](./docs/documentation-tips.md) a project
 - Review [case studies](./docs/case-study-examples.md) - why are they good or not?
 
-📝 Homework 
+📝 Homework
 
 - Continue prototyping
 - Begin ongoing documentation
@@ -99,7 +99,7 @@ This course will model itself after a real-world client-agency relationship, whe
 
 📋 Agenda
 
-- Justin in Chicago for NBA All-Star Week 
+- Justin in Chicago for NBA All-Star Week
 - Group Dynamics w/Ruscha
 - [Management advice](./docs/management-advice.md) bulletpoints
 - Soft skills
@@ -108,7 +108,7 @@ This course will model itself after a real-world client-agency relationship, whe
   - Empathy
   - Self-reflection - find your strengths/weaknesses
 
-📝 Homework 
+📝 Homework
 
 - Prototype progress update (1 min. video)
 
@@ -127,7 +127,6 @@ This course will model itself after a real-world client-agency relationship, whe
 👨‍🏫 Presentations
 
 - [Tools of the Trade](./docs/tools-of-the-trade.md)
-- Guest: Storytelling, performance, community engagement & activism w/[Stephen Brackett](https://www.youthonrecord.org/team-member/stephen-brackett)
 
 ---
 
@@ -147,7 +146,7 @@ This course will model itself after a real-world client-agency relationship, whe
 
 - Guest speaker: [Andrew Catellier](https://thisisreal.net/) - "Disussion on Neural Net Applications and Pitfalls"
 
-📝 Homework 
+📝 Homework
 
 - Prepare to present prototypes
 
@@ -165,7 +164,7 @@ This course will model itself after a real-world client-agency relationship, whe
 
 - Brian Corrigan: Guest Lecture and Guest Client: https://www.briancorrigan.net/
 
-📝 Homework 
+📝 Homework
 
 - Continue production of your project (ongoing)
 
@@ -181,12 +180,13 @@ This course will model itself after a real-world client-agency relationship, whe
 
 - [Creative Freelancing](./docs/creative-freelancing.md)
   - [Student opportunities](./docs/student-opportunities.md)
+- Guest: Storytelling, performance, community engagement & activism w/[Stephen Brackett](https://www.youthonrecord.org/team-member/stephen-brackett)
 
 📚 "Reading"
 
 - [UX Design for Digital/Physical Interactive Installations](https://www.youtube.com/watch?v=yyLmucX7qrs), Justin Gitlin
 
-📝 Homework 
+📝 Homework
 
 - Develop a user testing plan that includes:
   - Overall objective/goals for the user test
@@ -201,7 +201,7 @@ This course will model itself after a real-world client-agency relationship, whe
 📋 Agenda
 
 - **Round 1 User Testing**
-- Invite a series of guests to class test your prototype. 
+- Invite a series of guests to class test your prototype.
 - Justin will invite guest testers
 
 <!-- *Wrench*? -->
@@ -214,14 +214,14 @@ This course will model itself after a real-world client-agency relationship, whe
 
 - Durability & digital plumbing
 
-📝 Homework 
+📝 Homework
 
 - Budget Check in
   - Send me current expenditures and projected expenditures
 
 ---
 
-### Mar 23 
+### Mar 23
 
 📋 Agenda
 
@@ -233,7 +233,7 @@ No class: Spring break week
 
 📋 Agenda
 
-- **Production** 
+- **Production**
   - Your group can work wherever you want (ENVD, BTU, Black Box, etc.) but let me know where you are working as we want to come by to check in.
 
 ---
@@ -249,7 +249,7 @@ No class: Spring break week
 
 - [Preparing for Crunch Time](./docs/crunch-time.md)
 
-📝 Homework 
+📝 Homework
 
 - Report back on Round 2 User Testing on April 13, upload results to Canvas
 
