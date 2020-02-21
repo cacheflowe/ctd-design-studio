@@ -41,6 +41,7 @@
 * [Computer vision](https://www.youtube.com/watch?v=IXdDND9cVDg)
 * [Self-driving cars](https://www.tesla.com/autopilotAI)
 * [Helpful robots](https://youtu.be/tf7IEVTDjng?t=63)
+* [Natural Language Processing](https://www.youtube.com/watch?v=fOvTtapxa9c)
 * [Enhancing old recordings](https://twitter.com/doodlewhale/status/1225796918128906243)
 * [DrumBot - a digital bandmate](https://twitter.com/notwaldorf/status/1201599495244537858)
 
