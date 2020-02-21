@@ -82,8 +82,6 @@ This course will model itself after a real-world client-agency relationship, whe
     - Find answers to the highest risk tech & integrations first
     - Test your theories with users ASAP
 - Real world [project lifecycle](./docs/project-management.md), strategies & [team roles](./docs/roles-responsibilities.md)
-- [How to document](./docs/documentation-tips.md) a project
-- Review [case studies](./docs/case-study-examples.md) - why are they good or not?
 
 📝 Homework
 
@@ -141,14 +139,18 @@ This course will model itself after a real-world client-agency relationship, whe
   - Storytelling
   - Interaction & UX
   - Budget
+- Review documentation strategies
+  - [How to document](./docs/documentation-tips.md) a project
+  - [Case studies](./docs/case-study-examples.md) - why are they good or not?
 
 👨‍🏫 Presentations
 
-- Guest speaker: [Andrew Catellier](https://thisisreal.net/) - "Disussion on Neural Net Applications and Pitfalls"
+- Guest speaker: [Andrew Catellier](https://thisisreal.net/) - "Discussion on Neural Net Applications and Pitfalls"
+- [Machine Learning links](./docs/machine-learning.md)
 
 📝 Homework
 
-- Prepare to present prototypes
+- Prepare to present prototypes in class
 
 ---
 
@@ -179,7 +181,7 @@ This course will model itself after a real-world client-agency relationship, whe
 👨‍🏫 Presentations
 
 - [Creative Freelancing](./docs/creative-freelancing.md)
-  - [Student opportunities](./docs/student-opportunities.md)
+- [Student opportunities](./docs/student-opportunities.md)
 - Guest: Storytelling, performance, community engagement & activism w/[Stephen Brackett](https://www.youthonrecord.org/team-member/stephen-brackett)
 
 📚 "Reading"
