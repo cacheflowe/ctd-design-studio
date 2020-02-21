@@ -146,7 +146,7 @@ This course will model itself after a real-world client-agency relationship, whe
 👨‍🏫 Presentations
 
 - Guest speaker: [Andrew Catellier](https://thisisreal.net/) - "Discussion on Neural Net Applications and Pitfalls"
-- [Machine Learning links](./docs/machine-learning.md)
+  - Justin's [Machine Learning links](./docs/machine-learning.md)
 
 📝 Homework
 
