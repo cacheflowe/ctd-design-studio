@@ -34,6 +34,7 @@
 * [Women in Machine Learning](https://wimlworkshop.org/)
 * [Women in Machine Learning & Data Science: Boulder](http://wimlds.org/about-the-boulder-team/)
   * [March 11th Boulder Meetup](https://www.meetup.com/Boulder-Women-in-Machine-Learning-and-Data-Science/events/268275822/)
+* [Feminist.AI](https://www.feminist.ai/about)
 
 ## ML: The Good Things
 
