@@ -132,6 +132,8 @@ This course will model itself after a real-world client-agency relationship, whe
 
 📋 Agenda
 
+- ML presentation
+- EXPO: Temp Staging Form & diagrams
 - Work time & tech help for production/development
 - Client review of groups' plans for:
   - Tech
@@ -151,6 +153,7 @@ This course will model itself after a real-world client-agency relationship, whe
 📝 Homework
 
 - Prepare to present prototypes in class
+- Prepare a diagram for EXPO location applications
 
 ---
 
