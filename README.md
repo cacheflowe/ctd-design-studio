@@ -162,12 +162,12 @@ This course will model itself after a real-world client-agency relationship, whe
 📋 Agenda
 
 - Prototype presentations
-  - These should be mini proof of concept prototypes that actually use the technology that you plan on using.
+  - These should be mini proof-of-concept prototypes that actually use the technology that you plan on using.
   - Client sign-off, enter final production phase
 
 👨‍🏫 Presentations
 
-- Brian Corrigan: Guest Lecture and Guest Client: https://www.briancorrigan.net/
+- [Brian Corrigan](https://www.briancorrigan.net/): Guest Lecture and Guest Client
 
 📝 Homework
 
