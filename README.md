@@ -180,12 +180,12 @@ This course will model itself after a real-world client-agency relationship, whe
 📋 Agenda
 
 - Informal/peer user testing & workday
+- EXPO location update
 
 👨‍🏫 Presentations
 
 - [Creative Freelancing](./docs/creative-freelancing.md)
 - [Student opportunities](./docs/student-opportunities.md)
-- Guest: Storytelling, performance, community engagement & activism w/[Stephen Brackett](https://www.youthonrecord.org/team-member/stephen-brackett)
 
 📚 "Reading"
 
