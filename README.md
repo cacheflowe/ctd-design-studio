@@ -205,24 +205,35 @@ This course will model itself after a real-world client-agency relationship, whe
 
 📋 Agenda
 
-- **Round 1 User Testing**
-- Invite a series of guests to class test your prototype.
-- Justin will invite guest testers
+- Our new reality
+- What's happening right now in the world & business
+  - My projects are shutting down
+  - Huge hit on event/retail/museum work
+  - Music tours, conferences, festivals
+- "The Wrench"
+- Options:
+  - Continue working on your project
+  - Continue working on your project remotely, focusing on individual components
+  - Change the direction of your project in a way that allows remote execution
+  - Break off and focus on your component of the project with the intention of integrating, but without the actual integration
+  - Break off and propose an independent study with the spirit of the class in mind - how would your work be integrated into a larger team effort as a site-specific installation?
+  - Break off and propose an independent study of your choice
+- Any further work should take advantage of the time we have with each other, and I'd like to provide personal mentorship
+- User testing plans
+- What does everybody want to do? Talk with your group and let me know. Be kind to each other and understand differing directions
 
-<!-- *Wrench*? -->
+
+- ~~**Round 1 User Testing**~~
+- ~~Invite a series of guests to class test your prototype.~~
+- ~~Justin will invite guest testers~~
 
 📚 Reading
 
 - [Advice for Creative Technologists](https://medium.com/@laserpilot/advice-for-creative-technologists-21f3f220b2), Blair Neal
 
-👨‍🏫 Presentations
-
-- Durability & digital plumbing
-
 📝 Homework
 
-- Budget Check in
-  - Send me current expenditures and projected expenditures
+- Let me know what your group decides to do
 
 ---
 
@@ -241,6 +252,11 @@ No class: Spring break week
 - **Production**
   - Your group can work wherever you want (ENVD, BTU, Black Box, etc.) but let me know where you are working as we want to come by to check in.
 
+👨‍🏫 Presentations
+
+- Lexi Gray: Guest fireside chat
+- Durability & digital plumbing
+
 ---
 
 ### Apr 6
@@ -252,6 +268,7 @@ No class: Spring break week
 
 👨‍🏫 Presentations
 
+- Cordelia Taylor (DAM): Guest fireside chat
 - [Preparing for Crunch Time](./docs/crunch-time.md)
 
 📝 Homework
