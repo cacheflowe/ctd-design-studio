@@ -249,12 +249,13 @@ No class: Spring break week
 
 📋 Agenda
 
-- **Production**
-  - Your group can work wherever you want (ENVD, BTU, Black Box, etc.) but let me know where you are working as we want to come by to check in.
+- Catch-up with groups & Justin
+  - Let's plan for the next month
 
 👨‍🏫 Presentations
 
-- Lexi Gray: Guest fireside chat
+- Guest speaker: Alexis Feitel - Structural Engineer w/[KL&A](https://www.klaa.com)
+  - Alexis is a consulting structural engineer, whose work ranges from custom residential, existing building restoration, and concrete high rises. Her KL&A projects include The Source Hotel, Meow Wolf Denver, Denver Zoo Animal Hospital, and Platte 15.
 - Durability & digital plumbing
 
 ---
@@ -263,12 +264,12 @@ No class: Spring break week
 
 📋 Agenda
 
-- **Round 2 User Testing**
-- Do user testing on your own
+- Revisit user testing plans
+- ~~Do user testing on your own~~
 
 👨‍🏫 Presentations
 
-- Cordelia Taylor (DAM): Guest fireside chat
+- Guest speaker: Cordelia Taylor - Technical Project Manager w/[Denver Art Museum](https://denverartmuseum.org/)
 - [Preparing for Crunch Time](./docs/crunch-time.md)
 
 📝 Homework
@@ -283,28 +284,20 @@ No class: Spring break week
 
 - Production: Let me know where you are working so we can come check in with your group.
 
+👨‍🏫 Presentations
+
+- Guest speaker: Amber Blais - immersive arts event producer, circus ringleader & storytelling w/[Zabiti](https://video.rmpbs.org/video/welcome-to-zabiti-hvdryp/). Also, ex-[Wonderbound](https://www.wonderbound.com/)
+
 ---
 
 ### Apr 20
 
 📋 Agenda
 
-- Install & Documentation
-- Meet in ENVD briefly at 11:30 to check in!
-- **Installations must be ready by the ATLAS EXPO**
-  - Thursday April 23th, 4:00-6:00pm
-
-👨‍🏫 Presentations
-
-- ??
-
----
-
-### Apr 23 (Thursday, 4:00-6:00pm)
-
-📋 Agenda
-
-- **ATLAS EXPO** (takes place of final exam)
+- ~~Install & Documentation~~
+- ~~Meet in ENVD briefly at 11:30 to check in!~~
+- ~~**Installations must be ready by the ATLAS EXPO**~~
+  - ~~Thursday April 23th, 4:00-6:00pm~~
 
 ---
 
@@ -312,7 +305,7 @@ No class: Spring break week
 
 📋 Agenda
 
-- Get more documentation of your work. You may want to ask friends to come be users of your project for the sake of documentation
+- Get more documentation of your work. You may want to ask roommates & family to come be users of your project for the sake of documentation
 - Review case study progress if you want input
 
 ---
@@ -323,4 +316,3 @@ No class: Spring break week
 
 - Final promotional videos & case study websites due
 - Evaluation
-<!-- Uninstall May 11 (maintain works through May 10)? -->
