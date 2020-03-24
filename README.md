@@ -294,6 +294,9 @@ No class: Spring break week
 
 📋 Agenda
 
+- Projects should be 95% done. Time for final polishing!
+- Prep for final documentation
+
 - ~~Install & Documentation~~
 - ~~Meet in ENVD briefly at 11:30 to check in!~~
 - ~~**Installations must be ready by the ATLAS EXPO**~~
@@ -310,7 +313,7 @@ No class: Spring break week
 
 ---
 
-### May 4 (No class)
+### May 1 (No class)
 
 📋 Agenda
 
