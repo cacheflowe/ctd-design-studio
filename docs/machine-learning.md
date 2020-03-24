@@ -17,6 +17,7 @@
   * [Synopsis](https://synopsis.video/)
   * [Descript](https://www.descript.com/)
   * [DAIN](https://github.com/baowenbo/DAIN)
+  * [fast.ai](https://github.com/baowenbo/DAIN)
 
 ## ML-based Artists
 
