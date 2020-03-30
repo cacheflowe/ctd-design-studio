@@ -249,14 +249,20 @@ No class: Spring break week
 
 📋 Agenda
 
+- Guest
 - Catch-up with groups & Justin
   - Let's plan for the next month
+  - Documentation:
+    - Words: storytelling, scene-setting,
+    - Images/video: mockups, schematics, blueprints, animations, code samples, snippets of the interaction
+    - See [AdaptBB page](https://hovercraftstudio.com/hoi-nyc-adapt-bb) for inspiration
+- Option for independent study next semester to wrap up projects
+- Feedback & suggestions
 
 👨‍🏫 Presentations
 
 - Guest speaker: Alexis Feitel - Structural Engineer w/[KL&A](https://www.klaa.com)
   - Alexis is a consulting structural engineer, whose work ranges from custom residential, existing building restoration, and concrete high rises. Her KL&A projects include The Source Hotel, Meow Wolf Denver, Denver Zoo Animal Hospital, and Platte 15.
-- Durability & digital plumbing
 
 ---
 
@@ -271,6 +277,7 @@ No class: Spring break week
 
 - Guest speaker: Cordelia Taylor - Technical Project Manager w/[Denver Art Museum](https://denverartmuseum.org/)
 - [Preparing for Crunch Time](./docs/crunch-time.md)
+- Durability & digital plumbing
 
 📝 Homework
 
