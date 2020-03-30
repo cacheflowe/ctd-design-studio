@@ -252,7 +252,7 @@ No class: Spring break week
 - Guest
 - Catch-up with groups & Justin
   - Let's plan for the next month
-  - Documentation:
+  - Documentation (esp. in lieu of an installed project):
     - Words: storytelling, scene-setting,
     - Images/video: mockups, schematics, blueprints, animations, code samples, snippets of the interaction
     - See [AdaptBB page](https://hovercraftstudio.com/hoi-nyc-adapt-bb) for inspiration
