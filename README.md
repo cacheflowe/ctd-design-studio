@@ -278,8 +278,8 @@ No class: Spring break week
 👨‍🏫 Presentations
 
 - Guest speaker: Cordelia Taylor - Technical Project Manager w/[Denver Art Museum](https://denverartmuseum.org/)
-- [Preparing for Crunch Time](./docs/crunch-time.md)
 - Durability & digital plumbing
+- [Preparing for Crunch Time](./docs/crunch-time.md)
 
 📝 Homework
 
