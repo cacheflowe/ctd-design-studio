@@ -270,8 +270,10 @@ No class: Spring break week
 
 📋 Agenda
 
+- Guest chat
 - Revisit user testing plans
 - ~~Do user testing on your own~~
+- ATLS 5660-001, Creative Code
 
 👨‍🏫 Presentations
 
@@ -281,7 +283,9 @@ No class: Spring break week
 
 📝 Homework
 
-- Report back on Round 2 User Testing on April 13, upload results to Canvas
+- Continue building & documenting
+- Watch RMPBS special on [Zabiti](https://video.rmpbs.org/video/welcome-to-zabiti-hvdryp/) before next class
+- ~~Report back on Round 2 User Testing on April 13, upload results~~
 
 ---
 
