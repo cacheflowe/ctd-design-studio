@@ -307,6 +307,7 @@ No class: Spring break week
 
 - Projects should be 95% done. Time for final polishing!
 - Prep for final documentation
+- Review case study progress if you want input
 
 
 - ~~Install & Documentation~~
@@ -320,12 +321,12 @@ No class: Spring break week
 
 📋 Agenda
 
-- Get more documentation of your work. You may want to ask roommates & family to come be users of your project for the sake of documentation
-- Review case study progress if you want input
+- Present your work to the class
+- ~~Get more documentation of your work. You may want to ask roommates & family to come be users of your project for the sake of documentation~~
 
 ---
 
-### May 1 (No class)
+### May 4 (No class)
 
 📋 Agenda
 
