@@ -293,6 +293,8 @@ No class: Spring break week
 
 📋 Agenda
 
+- Dates: Apr 27, May 4
+- Is there anything you want to learn about in the following classes?
 - Production: Let's keep working on our projects. Check in with Justin on progress.
 
 👨‍🏫 Presentations
