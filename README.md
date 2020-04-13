@@ -311,6 +311,11 @@ No class: Spring break week
 - Prep for final documentation
 - Review case study progress if you want input
 
+🏫 Presentations
+
+- Guest speaker: [Debbie Clapper](https://gneural.com/) - Artist, designer, illustrations, muralist, brand designer
+  - Find her latest work [on Instagram](https://www.instagram.com/gneural/)
+
 ---
 
 ### Apr 27
