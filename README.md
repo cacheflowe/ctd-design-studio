@@ -299,7 +299,7 @@ No class: Spring break week
 
 👨‍🏫 Presentations
 
-- Guest speaker: Amber Blais - immersive arts event producer, circus ringleader & storytelling w/[Zabiti](https://video.rmpbs.org/video/welcome-to-zabiti-hvdryp/). Also, ex-[Wonderbound](https://www.wonderbound.com/)
+- Guest speaker: [Amber Blais](https://www.rainbowmilitiaaerial.com/) - immersive arts event producer, circus ringleader & storytelling w/[Zabiti](https://video.rmpbs.org/video/welcome-to-zabiti-hvdryp/). Also, ex-[Wonderbound](https://www.wonderbound.com/)
 
 ---
 
