@@ -293,7 +293,7 @@ No class: Spring break week
 
 📋 Agenda
 
-- Production: Let me know where you are working so we can come check in with your group.
+- Production: Let's keep working on our projects. Check in with Justin on progress.
 
 👨‍🏫 Presentations
 
@@ -305,15 +305,9 @@ No class: Spring break week
 
 📋 Agenda
 
-- Projects should be 95% done. Time for final polishing!
+- Projects should be getting close to complete. Time for final polishing!
 - Prep for final documentation
 - Review case study progress if you want input
-
-
-- ~~Install & Documentation~~
-- ~~Meet in ENVD briefly at 11:30 to check in!~~
-- ~~**Installations must be ready by the ATLAS EXPO**~~
-  - ~~Thursday April 23th, 4:00-6:00pm~~
 
 ---
 
@@ -322,7 +316,7 @@ No class: Spring break week
 📋 Agenda
 
 - Present your work to the class
-- ~~Get more documentation of your work. You may want to ask roommates & family to come be users of your project for the sake of documentation~~
+- Prepare final documentation of your project. You may want to ask roommates & family to come be users of your project for the sake of documentation.
 
 ---
 
