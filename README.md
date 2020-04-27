@@ -327,7 +327,7 @@ No class: Spring break week
 
 ---
 
-### May 4 (No class)
+### May 4 (No class, happy hour optional)
 
 📋 Agenda
 
