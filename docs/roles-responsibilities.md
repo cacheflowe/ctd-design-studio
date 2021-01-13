@@ -1,8 +1,12 @@
 # Roles & Responsibilities
 
 - Client
-  - Internal team members (Curator, CMO, creative director, CEO, etc)
-
+  - Curator
+  - CMO
+  - Creative director
+  - CEO
+  - Project manager / Producer
+  - IT
 - Agency / vendor
   - Creative Execution
     - Creative director

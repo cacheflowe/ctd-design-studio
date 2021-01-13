@@ -21,7 +21,7 @@
 
 ## Video: 
 
-- HDMI, Displayport 
+- HDMI, Displayport (with version numbers)
 - Resolution & refresh rate
 - Video splitters/mappers/media servers (FX4, D3, Watchout, triplehead2go)
 - 50/100’ HDMI cable (this is directional!)
