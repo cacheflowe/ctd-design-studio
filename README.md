@@ -148,8 +148,7 @@ The week of March 22-26 will be used in this class as a spring pause to provide 
 
 👨‍🏫 Presentations
 
-- Curability
-- Crunch Time
+- Guest speaker: Art, illustration, design
 
 ### [Apr 22 🔗](./classes/2021-04-22-apr-22.md)
 
