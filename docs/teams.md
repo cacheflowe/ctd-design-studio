@@ -6,13 +6,13 @@
 - Ming
 
 # Team 2
-- Suraj Greenlund (they/them)
+- Suraj Greenlund
 - Taylor
 - Sammie
 
 # Team 3
-- Leslie (she/her)
-- Zach Schwemler (he/him)
+- Leslie
+- Zach Schwemler
 - Sergio
 - Austin
 
