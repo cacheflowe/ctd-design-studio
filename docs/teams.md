@@ -14,6 +14,7 @@
 - Leslie (she/her)
 - Zach Schwemler (he/him)
 - Sergio
+- Austin
 
 # Team 4
 - Bella
