@@ -6,13 +6,13 @@
 - Austin
 
 # Team 2
-- Suraj Greenlund
+- Suraj
 - Taylor
 - Ming
 
 # Team 3
 - Leslie
-- Zach Schwemler
+- Zach
 - Sergio
 
 # Team 4
