@@ -3,18 +3,17 @@
 # Team 1
 - Fidan
 - Nolan
-- Ming
+- Austin
 
 # Team 2
 - Suraj Greenlund
 - Taylor
-- Sammie
+- Ming
 
 # Team 3
 - Leslie
 - Zach Schwemler
 - Sergio
-- Austin
 
 # Team 4
 - Bella
