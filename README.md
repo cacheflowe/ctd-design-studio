@@ -8,7 +8,6 @@ Time: Thursdays @ 3:45-6:15 PM <br>
 Office hours: Mondays @ 4:00–6:30 PM or by appointment <br>
 Location: Remote <br>
 Instructor: [Justin Gitlin](https://cacheflowe.com) <br>
-Office hours: by appointment <br>
 [Class Policies](./docs/policies.md)
 
 ## Course Description
@@ -46,6 +45,7 @@ This course will model itself after a real-world client-agency relationship, whe
 
 - 📋 Progress check-in
 - 👨‍🏫 Presentations
+  - Arduino
   - Project management
 
 ### [Feb 18 🔗](./classes/2021-02-18-feb-18.md)
