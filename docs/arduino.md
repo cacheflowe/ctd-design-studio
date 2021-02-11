@@ -15,19 +15,20 @@
     - Screens
     - Motors
 - Alternatives to Arduino
-  - Raspberry Pi
-  - Teensy
-  - Tessel
+  - [Raspberry Pi](https://www.raspberrypi.org/)
+  - [Teensy](https://www.pjrc.com/teensy/)
+  - [Tessel](https://tessel.io/)
   - [PlatformIO](https://platformio.org/)
   
 ### Use cases
 
 - Extending your computer with custom hardware I/O
   - [Nike React treadmill](https://cacheflowe.com/code/installation/epic-react-instant-go)
-  - FF AR screens
-  - Reddymade capture station
+  - FF AR screens (show video)
+  - [LIDAR person detection](https://github.com/cacheflowe/haxademic/blob/master/arduino/VL53L1X/VL53L1X.ino)
 - Building standalone devices
   - [Automatic plant watering system](https://www.instructables.com/Arduino-Automatic-Watering-System/)
+  - [LIDAR + LED strip](https://github.com/cacheflowe/haxademic/blob/master/arduino/VL53L1X_FastLED/VL53L1X_FastLED.ino)
 - Hacking into existing electronics
   - [Telephone soundboard hack](https://vimeo.com/202334449)
 - [Arduino vs Raspberry Pi](https://makezine.com/2015/12/04/admittedly-simplistic-guide-raspberry-pi-vs-arduino/)
@@ -64,7 +65,7 @@
   - Voltage matters: 5, 12, 24v are the most common. Arduino has 3.3v & 5v outputs
   - [Digital vs Analog pins](https://www.allaboutcircuits.com/projects/using-the-arduinos-analog-io/)
   - General components for Arduino development
-    - Jumper cables
+    - [Jumper wires](https://www.exploringarduino.com/parts/jumper-wires/)
     - [Breadboard](https://cdn-learn.adafruit.com/guides/cropped_images/000/000/114/medium640/breadboard.jpg?1520539890)
     - [Pin headers](https://en.wikipedia.org/wiki/Pin_header#/media/File:6_Pin_Header.jpg)
       - [Arduino pinout detail](https://www.theengineeringprojects.com/wp-content/uploads/2018/06/Introduction-to-Arduino-UNO.png)

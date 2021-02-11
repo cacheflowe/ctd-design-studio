@@ -7,24 +7,30 @@
   - CEO
   - Project manager / Producer
   - IT
-- Agency / vendor
+- Agencies / vendors
   - Creative Execution
-    - Creative director
-    - Graphic designer
-    - Environmental designer
-    - Storyboarder
-    - Motion designer / animator
-    - Software developer
-    - Project manager / producer
-    - Fabrication
-    - Hardware: Mechanical/Electrical Engineer
-    - Structural engineer
+    - Overseers & communicators
+      - Creative director
+      - Project manager / producer
+    - Digital
+      - Storyboarder
+      - Look development artist
+      - Motion designer / Animator
+      - Software developer
+    - Physical
+      - Environmental designer
+      - Graphic designer
+      - Fabrication
+      - Hardware: 
+        - Mechanical Engineer
+        - Electrical Engineer
+      - Structural engineer
     - Copywriter
-  - On-site
+  - On-site staff
     - A/V
     - Event production
     - Actors
-  - Business
+  - Business support
     - Legal
     - Finances
     - HR

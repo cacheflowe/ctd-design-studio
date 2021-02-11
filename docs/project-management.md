@@ -8,7 +8,7 @@
 - Schedule & resource planning
 - Prototypes (design/motion & technical/physical)
 - Sign-off on concept
-- Agile production/execution
+- Production/execution ([Agile](https://www.atlassian.com/agile)? [Waterfall](https://www.projectmanager.com/waterfall-methodology)?)
 - Frequent communication & status updates
 - Delivery
 - Maintenance
