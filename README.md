@@ -106,6 +106,6 @@ This course will model itself after a real-world client-agency relationship, whe
 
 - 📋 Progress check-in
 
-### [Apr 22 🔗](./classes/2021-04-29-apr-29.md)
+### [Apr 29 🔗](./classes/2021-04-29-apr-29.md)
 
 - 👩‍👧‍👦 Final presentations
