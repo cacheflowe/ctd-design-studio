@@ -93,7 +93,8 @@ This course will model itself after a real-world client-agency relationship, whe
 
 - 📋 Progress check-in
 - 👨‍🏫 Presentations
-  - Curability
+  - Guest speaker: Design, illustration
+  - Durability
   - Crunch Time
 
 ### [Apr 15 🔗](./classes/2021-04-15-apr-15.md)
