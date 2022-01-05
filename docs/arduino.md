@@ -19,12 +19,14 @@
   - [Teensy](https://www.pjrc.com/teensy/)
   - [Tessel](https://tessel.io/)
   - [PlatformIO](https://platformio.org/)
+  - [Johnny-Five](http://johnny-five.io/)
+  - [Frightprops](https://www.frightprops.com/boobox-flexmax.html)
   
 ### Use cases
 
 - Extending your computer with custom hardware I/O
   - [Nike React treadmill](https://cacheflowe.com/code/installation/epic-react-instant-go)
-  - FF AR screens (show video)
+  - [FF AR screens](https://cacheflowe.com/secret/ff-prototype.mp4)
   - [LIDAR person detection](https://github.com/cacheflowe/haxademic/blob/master/arduino/VL53L1X/VL53L1X.ino)
 - Building standalone devices
   - [Automatic plant watering system](https://www.instructables.com/Arduino-Automatic-Watering-System/)
@@ -36,9 +38,9 @@
 ### How to use it
 
 - Choose your [Arduino model](https://www.arduino.cc/en/main/boards)
-  - [Kock-off brands](https://www.amazon.com/ATmega328P-Controller-Module-CH340G-Arduino/dp/B07RQ8S1LG/) are fine
+  - [Knock-off brands](https://www.amazon.com/ATmega328P-Controller-Module-CH340G-Arduino/dp/B07RQ8S1LG/) are fine
 - Connect Arduino device to computer via USB
-  - Check baud rate. This is the speed of serial communication between your computer and the Arduino when your program is running.
+  - Check baud rate. This is the speed of serial communication between your computer and the Arduino when your program is running. It must match between your program and your receiving desktop app (Arduino's Serial Monitor or your own app in Processing, Node.js, Unity, etc)
 - [Connect hardware](https://www.researchgate.net/profile/Tracey_Booth/publication/259581958/figure/fig1/AS:297156150874112@1447858955606/Example-of-a-prototype-using-an-Arduino-microcontroller-board.png) to ports on [Arduino](https://store-cdn.arduino.cc/usa/catalog/product/cache/1/image/1040x660/604a3538c15e081937dbfbd20aa60aad/a/0/a000066_featured_1_2.jpg)
 - [Write some code](https://www.arduino.cc/reference/en/) to upload onto your Arduino
   - You can upload one program at a time (aka embedded software), which replaces the previous app
