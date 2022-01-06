@@ -3,10 +3,10 @@
 ## Course Info
 
 [CU Boulder ATLAS program](https://www.colorado.edu/atlas/academics/graduate/ms-technology-media-society) <br>
-ATLS-5440 | Spring 2021 <br>
-Time: Thursdays @ 3:45-6:15 PM <br>
-Office hours: Mondays @ 4:00–6:30 PM or by appointment <br>
-Location: Remote <br>
+ATLS-5440 | Spring 2022 <br>
+Class Time: Thursdays @ 3:30-6:00 PM <br>
+Location: ENVD 234A / Remote <br>
+Office hours: Mondays @ 4:00–6:30 PM or by appointment<br>
 Instructor: [Justin Gitlin](https://cacheflowe.com) <br>
 [Class Policies](./docs/policies.md)
 
@@ -25,54 +25,54 @@ This course will model itself after a real-world client-agency relationship, whe
 
 ## Schedule
 
-### [Jan 14 🔗](./classes/2021-01-14-jan-14.md)
+### [Jan 14 🔗](./classes/2022-01-13.md)
 
 - 📋 Class introduction
 
-### [Jan 21 🔗](./classes/2021-01-21-jan-21.md)
+### [Jan 21 🔗](./classes/2022-01-20.md)
 
 - 📋 Pitch progress check-in
 
-### [Jan 28 🔗](./classes/2021-01-28-jan-28.md)
+### [Jan 28 🔗](./classes/2022-01-27.md)
 
 - 👩‍👧‍👦 **Pitch presentations**
 
-### Feb 4
+### [Feb 03 🔗](./classes/2022-02-03.md)
 
 - 🤝 Group Dynamics workshop w/Ruscha
 
-### [Feb 11 🔗](./classes/2021-02-11-feb-11.md)
+### [Feb 10 🔗](./classes/2022-02-10.md)
 
 - 📋 Progress check-in
 - 👨‍🏫 Presentations
   - Arduino
   - Project management
 
-### [Feb 18 🔗](./classes/2021-02-18-feb-18.md)
+### [Feb 17 🔗](./classes/2022-02-17.md)
 
 - 📋 Progress check-in
 - 👨‍🏫 Presentations
   - Guest speaker: Animation & illustration
   - Management & soft skills
 
-### [Feb 25 🔗](./classes/2021-02-25-feb-25.md)
+### [Feb 24 🔗](./classes/2022-02-24.md)
 
 - 📋 Review prototype progress
 - 👨‍🏫 Presentations
   - Tools of the Trade
 
-### [Mar 4 🔗](./classes/2021-03-04-mar-04.md)
+### [Mar 3 🔗](./classes/2022-03-03.md)
 
 - 📋 Progress check-in
 - 👨‍🏫 Presentations
   - Guest speaker: Creative placemaking
   - Review documentation strategies
 
-### [Mar 11 🔗](./classes/2021-03-11-mar-11.md)
+### [Mar 10 🔗](./classes/2022-03-10.md)
 
 - 👩‍👧‍👦 **Prototype presentations**
 
-### [Mar 18 🔗](./classes/2021-03-18-mar-18.md)
+### [Mar 17 🔗](./classes/2022-03-17.md)
 
 - 📋 Progress check-in
 - 👨‍🏫 Presentations
@@ -80,16 +80,16 @@ This course will model itself after a real-world client-agency relationship, whe
   - Creative Freelancing
   - Student Opportunities
 
-### [Mar 25 🔗](./classes/2021-03-25-mar-25.md)
+### [Mar 24 🔗](./classes/2022-03-24.md)
 
 - 🙅 Spring Pause - No Class
 
-### [Apr 1 🔗](./classes/2021-04-01-apr-01.md)
+### [Mar 31 🔗](./classes/2022-03-31.md)
 
 - 📋 Progress check-in
 - Guest speaker: Structural engineering
 
-### [Apr 8 🔗](./classes/2021-04-08-apr-08.md)
+### [Apr 7 🔗](./classes/2022-04-07.md)
 
 - 📋 Progress check-in
 - 👨‍🏫 Presentations
@@ -97,16 +97,20 @@ This course will model itself after a real-world client-agency relationship, whe
   - Durability
   - Crunch Time
 
-### [Apr 15 🔗](./classes/2021-04-15-apr-15.md)
+### [Apr 14 🔗](./classes/2022-04-14.md)
 
 - 📋 Progress check-in
 - 👨‍🏫 Presentations
   - Guest speaker: Art, illustration, design
 
-### [Apr 22 🔗](./classes/2021-04-22-apr-22.md)
+### [Apr 21 🔗](./classes/2022-04-21.md)
 
 - 📋 Progress check-in
 
-### [Apr 29 🔗](./classes/2021-04-29-apr-29.md)
+### [Apr 28 🔗](./classes/2022-04-28.md)
 
-- 👩‍👧‍👦 Final presentations
+- 👩‍👧‍👦 Last Class: Final presentations
+
+### Expo TBD
+
+- Exam week: April 30 - May 4 (Sat.-Wed.)
