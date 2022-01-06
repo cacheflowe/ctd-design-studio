@@ -39,7 +39,7 @@ This course will model itself after a real-world client-agency relationship, whe
 
 ### [Feb 03 🔗](./classes/2022-02-03.md)
 
-- 🤝 Group Dynamics workshop w/Ruscha
+- 🤝 Group Dynamics workshop
 
 ### [Feb 10 🔗](./classes/2022-02-10.md)
 
