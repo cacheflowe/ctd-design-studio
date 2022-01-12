@@ -6,9 +6,13 @@
 ATLS-5440 | Spring 2022 <br>
 Class Time: Thursdays @ 3:30-6:00 PM <br>
 Location: ENVD 234A / Remote <br>
-Office hours: Mondays @ 4:00–6:30 PM or by appointment<br>
 Instructor: [Justin Gitlin](https://cacheflowe.com) <br>
-[Class Policies](./docs/policies.md)
+Office hours (Zoom links in Canvas)<br>
+- Fiona: Tuesdays, 10-11am via Zoom
+- Peter: Mondays, 2-4pm via Zoom or in the Grad Lab
+- Justin: Mondays 5-6pm via the class Zoom link or by appointment
+
+[Class Policies](./docs/policies.md)<br>
 
 ## Course Description
 
