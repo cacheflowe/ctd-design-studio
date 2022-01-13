@@ -29,15 +29,15 @@ This course will model itself after a real-world client-agency relationship, whe
 
 ## Schedule
 
-### [Jan 14 🔗](./classes/2022-01-13.md)
+### [Jan 13 🔗](./classes/2022-01-13.md)
 
 - 📋 Class introduction
 
-### [Jan 21 🔗](./classes/2022-01-20.md)
+### [Jan 20 🔗](./classes/2022-01-20.md)
 
 - 📋 Pitch progress check-in
 
-### [Jan 28 🔗](./classes/2022-01-27.md)
+### [Jan 27 🔗](./classes/2022-01-27.md)
 
 - 👩‍👧‍👦 **Pitch presentations**
 
