@@ -53,7 +53,7 @@ Both students and faculty are responsible for maintaining an appropriate learnin
 
 ### Requirements for COVID-19
 
-Note from Justin: Since this course is remote, the following requirements apply to your time on campus.
+Note from Justin: Since this course is hybrid, the following requirements apply to your time on campus.
 
 As a matter of public health and safety due to the pandemic, all members of the CU Boulder community and all visitors to campus must follow university, department and building requirements and all public health orders in place to reduce the risk of spreading infectious disease. Students who fail to adhere to these requirements will be asked to leave class, and students who do not leave class when asked or who refuse to comply with these requirements will be referred to [Student Conduct and Conflict Resolution](https://www.colorado.edu/sccr/). For more information, see the policy on [classroom behavior](http://www.colorado.edu/policies/student-classroom-and-course-related-behavior) and the [Student Code of Conduct](http://www.colorado.edu/osccr/). If you require accommodation because a disability prevents you from fulfilling these safety measures, please follow the steps in the “Accommodation for Disabilities” statement on this syllabus.
 
