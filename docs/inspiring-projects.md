@@ -2,6 +2,13 @@
 
 See this list for lots more: [cacheflowe.com/inspiration](https://cacheflowe.com/inspiration)
 
+And some great curator accounts on Instagram:
+
+* [New Media Art](https://www.instagram.com/new_media_art/)
+* [awe.curation](https://www.instagram.com/awe.curation/)
+* [Orb Mag](https://www.instagram.com/orbmagazineofficial/)
+* [deletecomputer](https://www.instagram.com/deletecomputer/)
+
 ## Light Installations
   - Playmodes Studio - ["Cluster"](https://vimeo.com/254226238)
   - Kyle McDonald - ["Light Leaks"](https://vimeo.com/254244075)
@@ -27,6 +34,7 @@ See this list for lots more: [cacheflowe.com/inspiration](https://cacheflowe.com
   - INITI - ["Playground Project"](https://vimeo.com/201169087)
 
 ## Interactive Projections
+  - Jen Stark - ["Cascade"](https://cascadeshow.com/)
   - teamlab - ["Borderless"](https://www.youtube.com/watch?v=tNvLFNHQ9Fg)
   - [XYZT](https://vimeo.com/130690760)
   - Future Wife - [LIDAR Touch](https://vimeo.com/305839315)
@@ -37,3 +45,11 @@ See this list for lots more: [cacheflowe.com/inspiration](https://cacheflowe.com
   - Elevenplay x Rhiizomatiks Research - ["3 dancers and 24 drones"](https://www.youtube.com/watch?v=cYWvKudIIJ8)
   - Karma Fields & Raven Kwok - ["The HEX"](https://www.youtube.com/watch?v=sUflZ9qm8rU)
   - Ian Cheng - ["Spiritual Leader"](https://www.youtube.com/watch?v=CS7rDZhcHL0)
+  - Playmodes Studio - ["FORMS String Quartet"](https://www.playmodes.com/home/forms-string-quartet/)
+
+## Sound
+  - Playmodes Studio - ["Screen Ensemble"](https://www.playmodes.com/home/forms-screen-ensemble/)
+  - Neil Mendoza - ["The Electric Knife Orchestra"](http://www.neilmendoza.com/portfolio/the-electric-knife-orchestra/)
+
+## Web
+  - Playmodes Studo - [FORMS](https://www.playmodes.com/home/forms/)
