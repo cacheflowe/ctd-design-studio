@@ -20,8 +20,8 @@
     - Physical
       - Environmental designer
       - Graphic designer
-      - Fabrication
       - Hardware: 
+        - Fabrication
         - Mechanical Engineer
         - Electrical Engineer
       - Structural engineer
