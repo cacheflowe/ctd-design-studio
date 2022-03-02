@@ -11,15 +11,32 @@
   - Raspberry Pi <-> Gaming PC
 - Will it be outside? You’ll need AC/heat
 
+## Input devices
+
+- Keyboard/mouse
+- Touchscreen
+- PI Engineering devices (interesting buttons)
+- Gamepad devices for custom input switches
+- Webcam or CamLink / capture card - HDMI -> USB webcam (UVC)
+- Depth cameras: Kinect / Realsense / ZED
+- Thermal or infrared cameras
+- Sensors (usually via custom hardware: Arduino / Raspberry PI / Teensy / etc.)
+  - Piezo vibration sensor (acoustic drum triggers)
+  - Capacitive paint
+  - Accelerometer
+  - Altitude
+  - Linear encoder
+  - Rotary encoder
+
 ## Software tools
 
 - Creative coding frameworks & libraries
-- Adobe / C4D, etc
+- Design tools like Adobe / C4D, etc
 - Server for data/media processing
 - Cloud services & integrations
   - Email, text messages
 
-## Video: 
+## Video:
 
 - HDMI, Displayport (with version numbers)
 - Resolution & refresh rate
@@ -30,35 +47,19 @@
 - Projectors
 - LED panels
 
-## Communication protocols: 
+## Communication protocols
 
 - UDP / OSC / WebSockets
 - HTTP
 - MIDI
-- Syphon / Spout / RTP
-- DMX / Artnet
-
-## Input devices
-
-- Keyboard/mouse
-- Touchscreen
-- PI Engineering devices (interesting buttons)
-- Gamepad devices for custom input switches
-- Webcam or CamLink / capture card - HDMI -> USB webcam (UVC)
-- Depth cameras: Kinects / Realsense 
-- Thermal or infrared cameras
-- Sensors (usually via custom hardware: Arduino / Raspberry PI / Teensy / etc.)
-  - Piezo vibration sensor (acoustic drum triggers)
-  - Capacitive paint
-  - Accelerometer
-  - Altitude
-  - Linear encoder
-  - Rotary encoder
+- Syphon / Spout / RTP / NDI
+- DMX / Artnet / sAcn / WLED
 
 ## Audio
 
 - Basic consumer-level speakers
 - Pro-audio equipment
+- Spatial audio systems
 
 ## Cabling 
 
@@ -69,6 +70,7 @@ Note/opinion: hard-lines are generally much more robust & dependable than wirele
   - HDMI ethernet extender
   - DMX over ethernet
   - POE (Power Over Ethernet)
+  - Fiber optic options
 - 100’ MIDI cable
 - HDMI/Displayport cables
 - Audio cables (3.5mm or fancier)

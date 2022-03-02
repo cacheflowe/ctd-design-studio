@@ -20,6 +20,7 @@
   - GANTT chart ([example](http://ralstonroadcafe.com/wp-content/uploads/2018/11/Gantt-Chart-Dependencies.jpg)) - some project management tools have this built-in
   - Spreadsheets (lots of spreadsheets)
   - Other communication tools: Slack, group text, etc
+  - Jira / Notion / Asana
   - Track your business pipeline & external responsibilities
   - Regular check-ins with your team. Standups?
 - Tech specs
