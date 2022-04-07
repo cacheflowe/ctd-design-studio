@@ -91,14 +91,11 @@ This course will model itself after a real-world client-agency relationship, whe
 ### [Mar 31 🔗](./classes/2022-03-31.md)
 
 - 📋 Progress check-in
-- Guest speaker: Structural engineering
 
 ### [Apr 7 🔗](./classes/2022-04-07.md)
 
 - 📋 Progress check-in
 - 👨‍🏫 Presentations
-  - Guest speaker: Design, illustration
-  - Durability
   - Crunch Time
 
 ### [Apr 14 🔗](./classes/2022-04-14.md)
@@ -113,7 +110,8 @@ This course will model itself after a real-world client-agency relationship, whe
 
 ### [Apr 28 🔗](./classes/2022-04-28.md)
 
-- 👩‍👧‍👦 Last Class: Final presentations
+- 👩‍👧‍👦 EXPO! Final presentations
+<!-- - 👩‍👧‍👦 Last Class: Final presentations -->
 
 ### Expo TBD
 
