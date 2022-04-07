@@ -10,7 +10,7 @@
 - If something isn’t going to make it into the project, communicate this ASAP. It’s far better to be disappointing with clear upfront communication than to not deliver what you promised!
 - Final user testing to find holes in the UX plan. How effective & understandable can the project be?
   - What aren’t test users understanding, and how can you mitigate this?
-  - Are you finding anything that you thought was important, but is not to users? (Show Flail or Fail?)
+  - Are you finding anything that you thought was important, but is not to users? (Show Flail or Fail)
   - What can you tweak to make sure it's working in the ways that people are naturally using it?
 - If you’re in good shape and have all essential features built, what final polish can you add to make it extra delightful and increase personality/memorability?
 - Keep documenting the project - these final moments can show essential parts of the process
